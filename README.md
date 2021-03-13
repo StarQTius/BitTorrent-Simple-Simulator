@@ -1,4 +1,4 @@
-# P2P-Simple-Simulator
+# BitTorrent-Simple-Simulator
 
 Simulateur simple d'un réseau P2P
 Ce projet fait partie du TIPE que je devais présenter au tétraconcours. Il s'agit d'un programme simulant un réseau P2P avec le protocole _BitTorrent_.
